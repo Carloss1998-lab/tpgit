@@ -1,1 +1,4 @@
 pomme
+mangue
+banane
+orange
