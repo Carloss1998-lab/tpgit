@@ -1,0 +1,1000 @@
+  561  git config --global user.email "calebcarloss@gmail.com"
+  562  git config --global --list
+  563  git status
+  564  git push
+  565  git remote add
+  566  git remote add "Carloss1998-lab"
+  567  git remote add "Carloss1998-lab" https://github.com/Carloss1998-lab/-UE-alg-Projet_Caleb_Carloss.git
+  568  git push
+  569  git push "Carloss1998-lab"
+  570  git config --global push.default matching
+  571  git push "Carloss1998-lab"
+  572  git add .
+  573  git push
+  574  git status
+  575  git add .
+  576  git status
+  577  git remote –v
+  578  git push
+  579  git push "Carloss1998-lab"
+  580  git commit –m “index”
+  581  git commit –m "index"
+  582  git commit "index"
+  583  git init
+  584  git push
+  585  git commit
+  586  git commit add
+  587  git commit all
+  588  git commit .
+  589  git add .
+  590  git push
+  591  git pull
+  592  git pull https://github.com/Carloss1998-lab/-UE-alg-Projet_Caleb_Carloss.git
+  593  git push
+  594  git remote add "Carloss1998-lab" https://github.com/Carloss1998-lab/-UE-alg-Projet_Caleb_Carloss.git
+  595  git push Carloss1998-lab
+  596  status
+  597  git status
+  598  git add
+  599  git add .
+  600  git status
+  601  git add indexation
+  602  git status
+  603  git commit
+  604  git commit -m index
+  605  git status
+  606  git push
+  607  git push "Carloss1998-lab"
+  608  git add *
+  609  git push
+  610  git push "Carloss1998-lab"
+  611  git push origin 
+  612  -UE-alg-Projet_Caleb_Carloss
+  613  git push origin 
+  614  -UE-alg-Projet_Caleb_Carloss
+  615  git push 
+  616  -UE-alg-Projet_Caleb_Carloss
+  617  git push "
+  618  -UE-alg-Projet_Caleb_Carloss
+  619  "
+  620  git push "Carloss1998-lab"
+  621  git push origin master
+  622  git push origin main
+  623  git push -u "Carloss1998-lab"
+  624  git remote add "Carloss1998-lab" https://github.com/Carloss1998-lab/-UE-alg-Projet_Caleb_Carloss.git
+  625  git branch
+  626  git push master
+  627  git push -u origin master
+  628  git push -u Carloss1998-lab master
+  629  git push -u Carloss1998-lab main
+  630  git init
+  631  git add .
+  632  git status
+  633  git commit -m 'index'
+  634  git remote add origin "https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Carloss-Private.git"
+  635  git push -u origin master
+  636  git push -u origin main
+  637  git push -u origin master
+  638  git init
+  639  git add .
+  640  git push
+  641  git status
+  642  git commit "index"
+  643  git commit -m "index"
+  644  git push
+  645  git status
+  646  git remote add origin "https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Carloss-Private.git"
+  647  git add *
+  648  git status
+  649  git push -u Carloss1998-lab master
+  650  git remote add origin "https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git"
+  651  git status
+  652  source /home/caleb/anaconda3/bin/activate
+  653  conda activate base
+  654  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  655  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/FM_Index.py
+  656  git init
+  657  git git checkout -b master
+  658  git checkout -b master
+  659  git push -u origin master
+  660  git remote add origin "https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git"
+  661  git push -u origin master
+  662  git push -u Carloss1998-lab master
+  663  git init
+  664  git add .
+  665  git status
+  666  git push -u origin master
+  667  git checkout -b main
+  668  git push -u origin main
+  669  git push -u main
+  670  git init
+  671  ls -a
+  672  remove .git
+  673  rm .git
+  674  rm -r .git
+  675  ls
+  676  ls -a
+  677  rm -R .git\*
+  678  rm -R /.git\*
+  679  rm -r .git
+  680  sudo rm -r .git
+  681  ls -a
+  682  git init
+  683  git add .
+  684  git status
+  685  git commit -m "index"
+  686  git remeote add master "https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git"
+  687  git remote add master "https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git"
+  688  git push -u master master
+  689  git pull
+  690  git pull https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git
+  691  git add README.md
+  692  git pull https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git
+  693  git commit -m "index2"
+  694  git pull https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git
+  695  git push -u master master
+  696  git pull https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git
+  697  cd indexation
+  698  ls -a
+  699  sudo rm -r .git
+  700  ls -a
+  701  cd ..
+  702  git status
+  703  git add .
+  704  git status
+  705  cd data
+  706  ls -a
+  707  cd ..
+  708  ls -a
+  709  sudo rm -r .git
+  710  ls -a
+  711  cd indexation/
+  712  ls -a
+  713  cd ..
+  714  git init
+  715  git add .
+  716  git status
+  717  git pull https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git
+  718  git commit -m "Index"
+  719  git pull https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git
+  720  git add README.md
+  721  git pull https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git
+  722  git commit -m "Index2"
+  723  git pull https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git
+  724  git push -u master
+  725  git push -u master master
+  726  git remote add origin "https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git"
+  727  git push -u origin master
+  728  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fm_index2.py
+  729  wget https://foad-moodle.ensai.fr/pluginfile.php/15235/mod_resource/content/1/TP1_3A_SID_2020_eleves_trous.Rmd http://data-access.cesgo.org/index.php/s/RGSIVwgV1Z3h0A3/download -O tools_karkkainen_sanders
+  730  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fm_index2.py
+  731  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  732  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex2.py
+  733  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  734  git commit -m "Index"
+  735  git add .
+  736  git commit -m "Index"
+  737  git push master master
+  738  git push -u master master
+  739  git push -u origin master
+  740  git pull https://github.com/Carloss1998-lab/UE_alg-Projet_Caleb_Christophe.git
+  741  git push -u origin master
+  742  /home/caleb/anaconda3/bin/python "/home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex copy.py"
+  743  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  744  /home/caleb/anaconda3/bin/python "/home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex copy.py"
+  745  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  746  /home/caleb/anaconda3/bin/python "/home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex copy.py"
+  747  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  748  /home/caleb/anaconda3/bin/python "/home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex copy.py"
+  749  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex.py
+  750  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  751  /home/caleb/anaconda3/bin/python "/home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex copy.py"
+  752  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  753  /home/caleb/anaconda3/bin/python "/home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex copy.py"
+  754  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  755  git add .
+  756  git commit -m "yes index"
+  757  git push
+  758  python
+  759  pythonpy
+  760  python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex copy.py
+  761  python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex_copy.py
+  762  python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  763  python index.py
+  764  python index.py test2.fasta test_idx 
+  765  python index.py data/test_data2.pkl test_idx 
+  766  python index.py data/test_data2.pkl dumped_index.dp
+  767  chmod +x  executeFile.sh
+  768  executeFile.sh
+  769  chmod +x  executeFile.sh
+  770  executeFile.sh
+  771  ls -l
+  772  sh executeFile.sh
+  773  chmod +x  executeFile.sh
+  774  sh executeFile.sh
+  775  sudo sh executeFile.sh 
+  776  ls -l
+  777  chmod u+r+x index.py
+  778  ls -l
+  779  sudo sh executeFile.sh 
+  780  sh executeFile.sh 
+  781  git add .
+  782  git commit -m "Sh File"
+  783  git push
+  784  sh executeFile.sh 
+  785  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/bow.py
+  786  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  787  sh executeFile.sh 
+  788  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/bow.py
+  789  sh executeFile.sh 
+  790  git add .
+  791  git commit -m "Sh file"
+  792  git push
+  793  sh executeFile.sh 
+  794  python index.py data/test_data2.pkl dumped_index.dp
+  795  git push
+  796  git pull
+  797  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  798  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex.py
+  799  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  800  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex.py
+  801  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  802  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex.py
+  803  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  804  pip install Bio
+  805  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  806  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/indexation/fmindex.py
+  807  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  808  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/index.py
+  809  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  810  sh executeFile.sh 
+  811  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  812  sh executeFile.sh 
+  813  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  814  git add .
+  815  git commit -m "Fasta format"
+  816  git push
+  817  sh executeFile.sh 
+  818  git add .
+  819  git commit -m "fasta format"
+  820  git push
+  821  git pull
+  822  sh mappingTest.sh 
+  823  git pull
+  824  sh mappingTest.sh 
+  825  git pull
+  826  sh mappingTest.sh 
+  827  git pull
+  828  sh mappingTest.sh 
+  829  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  830  git pull
+  831  git commit -m "ignore"
+  832  git pull
+  833  source /home/caleb/anaconda3/bin/activate
+  834  conda activate base
+  835  conda install --name base pylint -y
+  836  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  837  git strash
+  838  git stash
+  839  git pull
+  840  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  841  git tash
+  842  git stash
+  843  git pull
+  844  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  845  git clone https://github.com/Carloss1998-lab/-UE-alg-Projet_Caleb_Carloss.git
+  846  teams
+  847  sh mappingTest.sh 
+  848  discord
+  849  sudo apt update
+  850  sudo apt full-update
+  851  sudo apt update
+  852  deactivate
+  853  conda deactivate
+  854  sudo apt update
+  855  git clone https://github.com/egonelbre/fm-index.git
+  856  teams
+  857  teams
+  858  ls
+  859  sh mappingTest.sh 
+  860  source /home/caleb/anaconda3/bin/activate
+  861  conda activate base
+  862  conda install --name base pylint -y
+  863  sh mappingTest.sh 
+  864  conda install --name base pep8 -y
+  865  import pep8
+  866  source /home/caleb/anaconda3/bin/activate
+  867  conda activate base
+  868  conda install --name base pylint -y
+  869  sh mappingTest.sh 
+  870  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  871  sh mappingTest.sh 
+  872  python index.py --ref [genome_file.fa] --out [dumped_index.dp]
+  873  python index.py --ref data/test_data2.pkl --out dumped_index.dp
+  874  python index.py --ref [data/test_data2.pkl] --out [dumped_index.dp]
+  875  sh Coli_Indexation.sh 
+  876  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  877  git add .
+  878  git commit -m  "test coli"
+  879  git pull
+  880  git push
+  881  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+  882  git add .
+  883  git commit -m "VCF"
+  884  git push
+  885  conda  install -U memory_profiler
+  886  pip  install -U memory_profiler
+  887  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/memory_profiler.py
+  888  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/memory.py
+  889  mprof run memory.py
+  890  mprof plot memory.py
+  891  mprof plot
+  892  mprof plot index
+  893  mprof plot index.py
+  894  mprof run index.py
+  895  mprof run map.py
+  896  source /home/caleb/anaconda3/bin/activate
+  897  conda activate base
+  898  python
+  899  cd Téléchargements/
+  900  tar -zxwf vmd-1.9.4a48.bin.LINUXAMD64-CUDA102-OptiX650-OSPRay185.opengl
+  901  tar -zxwf vmd-1.9.4a48.bin.LINUXAMD64-CUDA102-OptiX650-OSPRay185.opengl.tar.gz 
+  902  cd vmd-1.9.4a48/
+  903  cd src/
+  904  sudo make install
+  905  cd ..
+  906  ./configure LINUXAMD64
+  907  cd src/
+  908  sudo make install
+  909  vmd
+  910  git add .
+  911  git commit -m "memory"
+  912  git push
+  913  teams
+  914  teams
+  915  source /home/caleb/anaconda3/bin/activate
+  916  conda activate base
+  917  source /home/caleb/anaconda3/bin/activate
+  918  conda activate base
+  919  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Steve/algo_KbMOM.py
+  920  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Steve/utils.py
+  921  conda install ot
+  922  conda activate r-reticulate
+  923  ls
+  924  clingo
+  925  sudo apt install gringo
+  926  clingo
+  927  clingo cluedo.lp 
+  928  clingo --version
+  929  clingo -help
+  930  clingo --help
+  931  a.
+  932  clingo a.
+  933  cd test/
+  934  clingo test
+  935  clingo nb(-23..42).
+  936  clingo test
+  937  clingo test.lp
+  938  clingo
+  939  gringo test.lp
+  940  git pull
+  941  unzip wget https://static-content.springer.com/esm/art%3A10.1186%2F1752-0509-5-8/MediaObjects/12918_2010_598_MOESM2_ESM.ZIP
+  942  unzip < wget https://static-content.springer.com/esm/art%3A10.1186%2F1752-0509-5-8/MediaObjects/12918_2010_598_MOESM2_ESM.ZIP
+  943  unzip | wget https://static-content.springer.com/esm/art%3A10.1186%2F1752-0509-5-8/MediaObjects/12918_2010_598_MOESM2_ESM.ZIP
+  944  ls
+  945  unzip | wget https://static-content.springer.com/esm/art%3A10.1186%2F1752-0509-5-8/MediaObjects/12918_2010_598_MOESM2_ESM.ZIP
+  946  wget https://static-content.springer.com/esm/art%3A10.1186%2F1752-0509-5-8/MediaObjects/12918_2010_598_MOESM2_ESM.ZIP
+  947  pwd
+  948  git pull clone https://github.com/linkstrife/HDP.git
+  949  git clone https://github.com/linkstrife/HDP.git
+  950  git init
+  951  git remote add https://github.com/Carloss1998-lab/Projet_Methodo_LDA_HDP.git
+  952  git remote add Carloss1998-lab https://github.com/Carloss1998-lab/Projet_Methodo_LDA_HDP.git
+  953  git commit
+  954  git add .
+  955  git push -m "projct"
+  956  git push -m "project"
+  957  git push
+  958  git push Carloss1998-lab
+  959  ls -a
+  960  rm .git
+  961  rm -r  .git
+  962  rm -r .git
+  963  ls -a
+  964  git init
+  965  git remote add origin https://github.com/Carloss1998-lab/Projet_Methodo_LDA_HDP.git
+  966  git push -u origin master
+  967  git remote add master https://github.com/Carloss1998-lab/Projet_Methodo_LDA_HDP.git
+  968  git push -u master master
+  969  rm -r .git
+  970  ls a
+  971  ls -a
+  972  git init
+  973  git status
+  974  git remote add master https://github.com/Carloss1998-lab/Projet_Methodo_LDA_HDP.git
+  975  git push -u master master
+  976  git add.
+  977  git add .
+  978  git push -u master master
+  979  git -m commit "project"
+  980  git commit "project"
+  981  rm -r .git
+  982  git init .
+  983  git add .
+  984  git commit -m "LDA_HDP"
+  985  git remote add master https://github.com/Carloss1998-lab/Projet_Methodo_LDA_HDP.git
+  986  git push -u master master
+  987  git pull
+  988  git pull https://github.com/Carloss1998-lab/Projet_Methodo_LDA_HDP.git
+  989  git push -u master master
+  990  git.txt < history()
+  991  git.txt < history
+  992  history
+  993  git.txt < history
+  994  git.txt < cat history
+  995  git.txt | cat history
+  996  git.txt < cat history
+  997  git.txt > cat history
+  998  git.txt > history
+  999  git.txt < history
+ 1000  git pull
+ 1001  python index.py
+ 1002  indexationTest.sh
+ 1003  sh indexationTest.sh
+ 1004  sh mappingTest.sh
+ 1005  sh mappingTest.sh 
+ 1006  sh map_coli.sh
+ 1007  executeFile.sh
+ 1008  sh executeFile.sh
+ 1009  sh map_coli.sh
+ 1010  git pull
+ 1011  sh indexationTest.sh
+ 1012  sh map
+ 1013  git pull
+ 1014  sh map_coli.sh
+ 1015  sh Coli_map.sh
+ 1016  ls -a
+ 1017  cat .gitignore
+ 1018  git pull
+ 1019  git add .
+ 1020  git commit -m "Cleaning"
+ 1021  git push
+ 1022  sh quality.sh
+ 1023  git add .
+ 1024  git commit -m "readm"
+ 1025  git push
+ 1026  git add .
+ 1027  git push
+ 1028  git commit -m "read3"
+ 1029  git push
+ 1030  git add .
+ 1031  git commit -m "read4"
+ 1032  sh Coli_map.sh
+ 1033  sh quality.sh
+ 1034  git add .
+ 1035  git commit -m "readme"
+ 1036  git push
+ 1037  git add .
+ 1038  git commit -m "readme"
+ 1039  git push
+ 1040  git add .
+ 1041  git commit -m "readme"
+ 1042  git push
+ 1043  git add .
+ 1044  git commit -m "readme"
+ 1045  git push
+ 1046  git add .
+ 1047  git commit -m "readme"
+ 1048  git push
+ 1049  git add .
+ 1050  git commit -m "readme"
+ 1051  git push
+ 1052  git add .
+ 1053  git commit -m "readme"
+ 1054  git push
+ 1055  git add .
+ 1056  git commit -m "readme"
+ 1057  git push
+ 1058  sh covid_Indexation.sh 
+ 1059  sh coli_Indexation.sh 
+ 1060  sh executeFile.sh 
+ 1061  sh coli_Indexation.sh 
+ 1062  python3 ./index.py ./data/data_covid/covid/MN908947.fasta Covid_index_dump.dp
+ 1063  sh covid_Indexation.sh 
+ 1064  sh covid_map.sh 
+ 1065  python3 ./index.py ./data/data_covid/covid/MN908947.fasta Covid_index_dump.dp
+ 1066  git pull
+ 1067  stash
+ 1068  git pull
+ 1069  git add .
+ 1070  git commit -m "data"
+ 1071  git push
+ 1072  git status
+ 1073  source /home/caleb/anaconda3/bin/activate
+ 1074  conda activate base
+ 1075  /home/caleb/anaconda3/bin/python /home/caleb/Documents/Master/Algo_Sequence/UE_alg-Projet_Caleb_Christophe/map.py
+ 1076  git pull
+ 1077  git clone https://github.com/atabas/Heartbeat-Classification.git
+ 1078  tar xzvf spark-3.0.1-bin-hadoop2.7.tgz
+ 1079  cd Téléchargements/
+ 1080  tar xzvf spark-3.0.1-bin-hadoop2.7.tgz
+ 1081  cd spark-3.0.1-bin-hadoop2.7/
+ 1082  ./bin/spark-shell 
+ 1083  val aolQueriesWithDup = aolQueries.filter(q => q.split(" ").size > q.split(" ").toSet.size)
+ 1084  val aolQueriesWithDup = aolQueries.filter(q => q.split(" ").size > q.split(" ").toSet.size
+ 1085  val aolQueriesWithDup = aolQueries.filter(q => q.split(" ").size > q.split(" ").toSet.size())
+ 1086  val aolQueriesWithDup = aolQueries.filter(q => q.split(" ").size > q.split(" "))
+ 1087  val aolQueriesWithDup = aolQueries.filter(q => q.split(" ").size > q.split(" ").toSet.size)
+ 1088  val aolQueriesWithDup = aolQueries.filter(q => q.split(" ").size > q.split(" ")
+ 1089  val aolQueriesWithDup = aolQueries.filter(q => q.split(" ").size > q.split(" "))
+ 1090  val aolQueriesWithDup = aolQueries.filter(q => q.split(" ").size)
+ 1091  val aolQueriesWithDup = aolQueries.filter(q => q.split(" "))
+ 1092  val aolQueriesWithDupp = aolQueries.filter(q => q.contains("le "))
+ 1093  val aolQueries = aol.map(x => x.split("\t")(1))
+ 1094  val kitten = aol.filter(x => x.contains("kitten"))
+ 1095  val aolQueries = aol.map(x => x.split("\t")(1))
+ 1096  val kitten = aol.filter(x => x.contains("kitten"))
+ 1097  val aol = sc.textFile("AOL-01.txt")
+ 1098  ./bin/spark-shell 
+ 1099  pdfgrep -i "GFS arch" /home/caleb/Documents/SID/BigData/*.pdf
+ 1100  pdfgrep -i "quiz" /home/caleb/*.pdf
+ 1101  pdfgrep -i "sem" /home/caleb/*.pdf
+ 1102  pdfgrep -i "quiz" /home/caleb/Documents/SID/*.pdf
+ 1103  val aolQueriesWithDup = aolQueries.filter(q => q.split(" ").size > q.split(" ").toSet.size)
+ 1104  export PIG_HOME=/home/edureka/pig-0.16.0
+ 1105  export PATH=$PATH:/home/edureka/pig-0.16.0/bin
+ 1106  cd /home/edureka/pig-0.16.0
+ 1107  cd /home/pig-0.16.0
+ 1108  cd home/pig-0.16.0
+ 1109  cd /home/caleb/pig-0.16.0
+ 1110  ls
+ 1111  tar -xzf pig-0.16.0.tar.gz 
+ 1112  source .bashrc
+ 1113  pig -v
+ 1114  pig -version
+ 1115  sudo gedit .bashrc
+ 1116  pig -v
+ 1117  pig -version
+ 1118  pig help
+ 1119  sudo gedit .bashrc
+ 1120  pig help
+ 1121  pig -version
+ 1122  sudo gedit .bashrc
+ 1123  pig -version
+ 1124  pig -v
+ 1125  pig help
+ 1126  sudo gedit bashrc
+ 1127  cd /usr
+ 1128  cd lib
+ 1129  cd jvm
+ 1130  ls
+ 1131  cd java
+ 1132  cd java-8-openjdk-amd64
+ 1133  cd .
+ 1134  cd ..
+ 1135  cd /usr/lib/jvm/java-8-openjdk-amd64
+ 1136  ls
+ 1137  sudo gedit .bashrc
+ 1138  source .bashrc
+ 1139  pig -v
+ 1140  pig
+ 1141  put -x local
+ 1142  pig -x local
+ 1143  A = load 'vecteur' as (x,y)
+ 1144  pig -x local
+ 1145  eyJhbGciOiJQUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Ii4rQC4rIiwib3JnIjoiLioiLCJwdWIiOiJuZW80ai5jb20iLCJyZWciOiIgIiwic3ViIjoibmVvNGotZGVza3RvcCIsImV4cCI6MTY0Mjg0NjI5MSwidmVyIjoiKiIsImlzcyI6Im5lbzRqLmNvbSIsIm5iZiI6MTYxMTMxMDI5MSwiaWF0IjoxNjExMzEwMjkxLCJqdGkiOiJfUHhJVUV4MUYifQ.k5EzvDD1ZSs7AkECPcl-cfHNbjAz1BAGe5gkPI_m1JYIOaCdDHCxZCXKFkmHhBPcXBzX61WDlTdle7AgoDd2aoLryhjaxp7i1S0aZaDurmpAyDiV28XiEkka_OEPPW_Q2YaYunCbevdtfBkb7tpP8I5jLdNqdOSa_iTpVZNNVDShE659sVhoYy8HbV98YFD5pqT-GclOcD-Ws2o3PrnJZxCTmWSKUDvxMFen79lzcVtsCoEvlGM0tTvst7XmVLRW5i7ikKO6exsPO7hoKHJPD0qeVgaCSPm5jcQjbHWgIjAaFVOPWBEBZXQWc4jfYMx01n1W7urC6x1l1WglZpPnfg
+ 1146  sudodockerrun--publish=7474:7474--publish=7687:7687neo4j:3.0
+ 1147  docker run -p7474:7474 -p7687:7687 -e NEO4J_AUTH=neo4j/s3cr3t neo4j
+ 1148  neo4j start
+ 1149  neo4j start
+ 1150  /home/caleb/Téléchargements/MMLFirst.zip
+ 1151  java -version
+ 1152  sudo apt install openjdk-11-jdk
+ 1153  sudo apt search openjdk-11
+ 1154  cd Téléchargements/
+ 1155  tar xvfz eclipse-inst-linux64.tar.gz
+ 1156  tar xvfz eclipse-inst-jre-linux64.tar.gz
+ 1157  cd eclipse-installer
+ 1158  ./eclipse-inst
+ 1159  tar xvfz eclipse-inst-linux64.tar.gz
+ 1160  cd ..
+ 1161  tar xvfz eclipse-inst-linux64.tar.gz
+ 1162  cd eclipse-installer
+ 1163  ./eclipse-inst
+ 1164  cd ..
+ 1165  cd jdk-11.0.10+9
+ 1166  sudo gedit .bashrc
+ 1167  java -v
+ 1168  java -version
+ 1169  apt-cache search jdk
+ 1170  locate jdk
+ 1171  export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+ 1172  export PATH=$PATH:$JAVA_HOME/bin
+ 1173  $JAVA_HOME
+ 1174  $PATH
+ 1175  ls /usr/lib/jvm/java-8-openjdk-amd64 
+ 1176  ls -a /usr/lib/jvm/java-8-openjdk-amd64 
+ 1177  nano .bashrc
+ 1178  source ~/.bashrc
+ 1179  cd Téléchargements/
+ 1180  sudo tar xfvz OpenJDK11U-jdk_x64_linux_hotspot_11.0.10_9.tar.gz --directory /usr/lib/jvm/
+ 1181  cd ..
+ 1182  /usr/lib/jvm/
+ 1183  ls /usr/lib/jvm/
+ 1184  java -version
+ 1185  rm -r  /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+ 1186  sudo rm -r  /usr/lib/jvm/java-1.8.0-openjdk-amd64 
+ 1187  ls /usr/lib/jvm/
+ 1188  sudo rm -r  /usr/lib/jvm/java-8-openjdk-amd64 
+ 1189  ls /usr/lib/jvm/
+ 1190  java --version
+ 1191  ls /usr/bin/java
+ 1192  cd usr
+ 1193  cd /usr
+ 1194  ls
+ 1195  cd ..
+ 1196  nano .bashrc
+ 1197  export JAVA_HOME= /usr/lib/jvm/jdk-11.0.10+9
+ 1198  export JAVA_HOME=/usr/lib/jvm/jdk-11.0.10+9
+ 1199  export PATH=$PATH:$JAVA_HOME/bin
+ 1200  java --version
+ 1201  nano .bashrc
+ 1202  source ~/.bashrc
+ 1203  source /home/caleb/anaconda3/bin/activate
+ 1204  conda activate base
+ 1205  java MMLMain.java
+ 1206  javac MMLMain.java
+ 1207  javac MMLMain.java iris.csv iris.csv
+ 1208  java MMLMain.java iris.csv iris.csv
+ 1209  deactivate
+ 1210  conda deactivate
+ 1211  conda activate
+ 1212  conda deactivate
+ 1213  java MMLMain.java iris.csv iris.csv
+ 1214  conda activate
+ 1215  javac -version
+ 1216  javc -version
+ 1217  java -version
+ 1218  java MMLMain.java iris.csv iris.csv
+ 1219  javac MMLMain.java iris.csv iris.csv
+ 1220  sudo apt install openjdk-11-jdk
+ 1221  sudo apt install openjdk-9-jdk
+ 1222  javac MMLMain.java iris.csv iris.csv
+ 1223  conda deactivate
+ 1224  javac MMLMain.java iris.csv iris.csv
+ 1225  javac MMLMain.java iris.csv variety
+ 1226  java MMLMain.java iris.csv iris.csv
+ 1227  sudo apt install default-jre
+ 1228  java MMLMain.java iris.csv iris.csv
+ 1229  javac MMLMain.java iris.csv iris.csv
+ 1230  javac /home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java/MMLMain.java MMLMain.java iris.csv iris.csv
+ 1231  javac /home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java/MMLMain.java iris.csv iris.csv
+ 1232  javac /home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java/MMLMain.java MMLMain.java iris.csv variety
+ 1233  javac /home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java/MMLMain.java iris.csv variety
+ 1234  ls
+ 1235  javac src/main/java/MMLMain.java iris.csv variety
+ 1236  java src/main/java/MMLMain.java iris.csv variety
+ 1237  javac src/main/java/MMLMain.java iris.csv variety
+ 1238  javac src/main/java/MMLMain.java
+ 1239  java src/main/java/MMLMain.java
+ 1240  javac src/main/java/MMLMain.java
+ 1241  javac src/main/java/MMLMain.java cd /home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning ; /usr/lib/jvm/jdk-11.0.10+9/bin/java -Dfile.encoding=UTF-8 @/tmp/cp_arklbpwlj7uxa1n8h68dq4bcp.argfile MMLMain 
+ 1242  pip install pandas
+ 1243  pip install --upgrade pip
+ 1244  pip install pandas
+ 1245  cd "/home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java"
+ 1246  cd "/home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java/" && javac MMLMain.java && java MMLMain
+ 1247  cd /home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning ; /usr/lib/jvm/jdk-11.0.10+9/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:37049 -Dfile.encoding=UTF-8 @/tmp/cp_arklbpwlj7uxa1n8h68dq4bcp.argfile MMLMain 
+ 1248  cd "/home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java/" && javac MMLMain.java
+ 1249  pip install com.google.common.io.Files
+ 1250  cd "/home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java/" && javac MMLMain.java
+ 1251  cd ..
+ 1252  cd "/home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java/" && javac MMLMain.java
+ 1253  cd ..
+ 1254  cd "/home/caleb/Documents/SID/Genie_Logiciel/multimachinelearning/src/main/java/" && javac MMLMain.java
+ 1255  cd ..
+ 1256  javac MMLMain.java
+ 1257  javac src/main/java/MMLMain.java
+ 1258  mvm compile
+ 1259  maven -version
+ 1260  mvn compile
+ 1261  sudo apt install maven
+ 1262  mvn compile
+ 1263  sudo apt install maven
+ 1264  conda deactivate
+ 1265  cd src
+ 1266  cd main/
+ 1267  cd java/
+ 1268  javac src/main/java/MMLMain.java
+ 1269  cd ..
+ 1270  javac src/main/java/MMLMain.java
+ 1271  source /home/caleb/anaconda3/bin/activate
+ 1272  conda activate base
+ 1273  git pull
+ 1274  stash
+ 1275  source /home/caleb/anaconda3/bin/activate
+ 1276  conda activate base
+ 1277  git clone https://github.com/acherm/multimachinelearning.git
+ 1278  git clone https://github.com/acherm/multimachinelearning.git
+ 1279  ls
+ 1280  git init
+ 1281  git remote add master https://github.com/Carloss1998-lab/Genie_Logiciel_Caleb_David_Mansor.git
+ 1282  git pull
+ 1283  git add .
+ 1284  git commit -m "depot"
+ 1285  git push -u master master
+ 1286  git pull  master https://github.com/Carloss1998-lab/Genie_Logiciel_Caleb_David_Mansor.git
+ 1287  git pull https://github.com/Carloss1998-lab/Genie_Logiciel_Caleb_David_Mansor.git
+ 1288  git add .
+ 1289  git commit -m "ok"
+ 1290  git push
+ 1291  git push -u master master
+ 1292  git add .
+ 1293  git commit -m "start version"
+ 1294  git push
+ 1295  git pull
+ 1296  git commit -m "brouillon"
+ 1297  git pull
+ 1298  git add .
+ 1299  git commit -m "brouillon"
+ 1300  git pull
+ 1301  git add .
+ 1302  git commit -m "b"
+ 1303  git pull
+ 1304  ls -a
+ 1305  cd .project
+ 1306  cat .project
+ 1307  ls -a
+ 1308  cat .classpath
+ 1309  ls
+ 1310  git add .
+ 1311  git commit -m "adding hyperparameters"
+ 1312  git push
+ 1313  git add .
+ 1314  git commit -m "with/without arguments"
+ 1315  git push
+ 1316  python
+ 1317  source /home/caleb/anaconda3/bin/activate
+ 1318  conda activate base
+ 1319  git add .
+ 1320  git commmit -m "Python accuracy"
+ 1321  git commit -m "Python accuracy"
+ 1322  git push
+ 1323  ls -a
+ 1324  cat .classpath
+ 1325  source /home/caleb/anaconda3/bin/activate
+ 1326  conda activate base
+ 1327  locate junit.jar
+ 1328  cd /usr
+ 1329  cd share
+ 1330  cd java
+ 1331  ls
+ 1332  locate junit
+ 1333  java 
+ 1334  locate junit.jar
+ 1335  location junit.jar
+ 1336  locate junit.jar
+ 1337  java -cp /usr/share/java/junit.jar /home/caleb/Documents/SID/Genie_Logiciel/Genie_Logiciel_Caleb_David_Mansor/src/test/java/MMLPythonTest.java
+ 1338  java -cp /usr/share/java/junit.jar /home/caleb/Documents/SID/Genie_Logiciel/Genie_Logiciel_Caleb_David_Mansor/src/main/java/MMLMain.java
+ 1339  source /home/caleb/anaconda3/bin/activate
+ 1340  conda activate base
+ 1341  cat .classpath 
+ 1342  git add .
+ 1343  git commit -m "gedit"
+ 1344  git push
+ 1345  sudo gedit  .classpath 
+ 1346  git clone https://github.com/Carloss1998-lab/Genie_Logiciel_Caleb_David_Mansor.git
+ 1347  cat .classpath 
+ 1348  git clone https://github.com/codeKgu/Text-GCN.git
+ 1349  git clone https://github.com/ThoCampo/PFE.git
+ 1350  sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+ 1351  sudo add-apt-get update
+ 1352  sudo apt-get update
+ 1353  sudo apt-get install gcc-4.9
+ 1354  sudo apt-get upgrade libstdc++6
+ 1355  sudo apt-get update --fix-missing
+ 1356  strings /usr/lib/x86_64-linux-gnu/libstdc++.so.6 | grep GLIBCXX
+ 1357  discord
+ 1358  git clone
+ 1359  git clone https://github.com/Carloss1998-lab/Genie_Logiciel_Caleb_David_Mansor.git
+ 1360  git clone https://github.com/acherm/multimachinelearning.git
+ 1361  cd ici
+ 1362  git clone https://github.com/acherm/multimachinelearning.git
+ 1363  cd multimachinelearning/
+ 1364  ls -a
+ 1365  rm .git
+ 1366  rm -r .git
+ 1367  ls -a
+ 1368  rm -r .git
+ 1369  ls -a
+ 1370  rm -r .gitignore 
+ 1371  ls -a
+ 1372  python main.py
+ 1373  pip install klepto
+ 1374  python main.py
+ 1375  python torch
+ 1376  pip install torch
+ 1377  python main.py
+ 1378  pip install torch_sparse
+ 1379  python main.py
+ 1380  gedit .classpath 
+ 1381  source /home/caleb/anaconda3/bin/activate
+ 1382  conda activate base
+ 1383  git add .
+ 1384  git commit -m "debut cnn"
+ 1385  git push
+ 1386  source /home/caleb/anaconda3/bin/activate
+ 1387  conda activate base
+ 1388  git add .
+ 1389  git commit -m "Notebook"
+ 1390  git push
+ 1391  git add .
+ 1392  git commit -m "Notebooks"
+ 1393  git push
+ 1394  git add .
+ 1395  git commit -m "New Notebooks"
+ 1396  git push
+ 1397  pip install torch_sparse install gprof2dot_magic
+ 1398  gedit .classpath 
+ 1399  sudo docker run -it -p 8888:8888 -v /home/caleb/Documents/Perso/docker:/root/sharedfolder continuumio/anaconda3 /bin/bash -c "pip install pycodestyle flake8 pycodestyle_magic &&
+ 1400  jupyter lab --notebook-dir=/root/sharedfolder --ip='*' --port=8888 --no-browser --allow-root"
+ 1401  sudo docker run -it -p 3333:3333 -v /home/caleb/Documents/Perso/docker:/root/sharedfolder continuumio/anaconda3 /bin/bash -c "pip install pycodestyle flake8 pycodestyle_magic &&
+ 1402  jupyter lab --notebook-dir=/root/sharedfolder --ip='*' --port=8888 --no-browser --allow-root"
+ 1403  sudo docker run -it -p 3333:3333 -v /home/caleb/Documents/Perso/docker:/root/sharedfolder continuumio/anaconda3 /bin/bash -c "pip install pycodestyle flake8 pycodestyle_magic &&
+ 1404  jupyter lab --notebook-dir=/root/sharedfolder --ip='*' --port=8888 --no-browser --allow-root"
+ 1405  source /home/caleb/anaconda3/bin/activate
+ 1406  conda activate base
+ 1407  import pandas as pd
+ 1408  source /home/caleb/anaconda3/bin/activate
+ 1409  sudo docker run -it -p 8888:8888 -v /home/caleb/Documents/Perso/docker:/root/sharedfolder continuumio/anaconda3 /bin/bash -c "pip install pycodestyle flake8 pycodestyle_magic &&
+ 1410  jupyter lab --notebook-dir=/root/sharedfolder --ip='*' --port=8888 --no-browser --allow-root"
+ 1411  sudo docker run -it -p 8888:8888 -v /home/caleb/Documents/Perso/docker:/root/sharedfolder continuumio/anaconda3 /bin/bash -c "pip install pycodestyle flake8 pycodestyle_magic &&
+ 1412  jupyter lab --notebook-dir=/root/sharedfolder --ip='*' --port=8888 --no-browser --allow-root"
+ 1413  sudo docker run -it -p 8888:8888 -v /home/caleb/Documents/Perso/docker:/root/sharedfolder continuumio/anaconda3 /bin/bash -c "pip install pycodestyle flake8 pycodestyle_magic &&
+ 1414  jupyter lab --notebook-dir=/root/sharedfolder --ip='*' --port=8888 --no-browser --allow-root"
+ 1415  npm
+ 1416  sudo apt update
+ 1417  sudo apt install nodejs
+ 1418  nodejs -v
+ 1419  npm install -g grunt-cli
+ 1420  sudo apt install npm
+ 1421  npm install -g grunt-cli
+ 1422  sudo npm install -g grunt-cli
+ 1423  npm install
+ 1424  sudo npm install -g grunt-cli
+ 1425  ls /usr/local/lib/node_modules/grunt-cli/bin/grunt
+ 1426  cd /usr/local/lib/node_modules/grunt-cli/bin/grunt
+ 1427  cd /usr/local/lib/node_modules/grunt-cli
+ 1428  ls
+ 1429  npm install
+ 1430  sudo npm install
+ 1431  sudo docker run -it -p 8888:8888 -v /home/caleb/Documents/Perso/docker:/root/sharedfolder continuumio/anaconda3 /bin/bash -c "pip install pycodestyle flake8 pycodestyle_magic &&
+ 1432  jupyter lab --notebook-dir=/root/sharedfolder --ip='*' --port=8888 --no-browser --allow-root"
+ 1433  mvn site
+ 1434  mvn clean  site
+ 1435  mvn site
+ 1436  mvn -v
+ 1437  mvn site
+ 1438  mvn -v
+ 1439  mvn site
+ 1440  chrome
+ 1441  chromium
+ 1442  cd /home/caleb/eclipse-workspace/caleb_maven
+ 1443  mvn site
+ 1444  pwd
+ 1445  mvn site
+ 1446  ls -a
+ 1447  cd target/
+ 1448  ls -a
+ 1449  cd site
+ 1450  ls -a
+ 1451  index.html
+ 1452  chrome index.html
+ 1453  pwd
+ 1454  cat index.html
+ 1455  gedit index.html
+ 1456  cd /home/caleb/eclipse-workspace/carloss-maven
+ 1457  cd target/
+ 1458  cd ..
+ 1459  cd target/site
+ 1460  cd ./target/site
+ 1461  cd target/
+ 1462  cd site
+ 1463  mvn site
+ 1464  cd ..
+ 1465  mvn site
+ 1466  cd target/
+ 1467  cd site/
+ 1468  google-chrome index.html
+ 1469  gedit index.html
+ 1470  cd ..
+ 1471  mvn site
+ 1472  cd target/
+ 1473  cd site/
+ 1474  google-chrome index.html
+ 1475  cd ..
+ 1476  ls -a
+ 1477  cd site/
+ 1478  ls -a
+ 1479  google-chrome summary.html 
+ 1480  cd ..
+ 1481  mvn site
+ 1482  mkdir tpgit
+ 1483  ls
+ 1484  git init
+ 1485  ls -a
+ 1486  rm -d .git
+ 1487  rm -r .git
+ 1488  ls -a
+ 1489  cd tpgit/
+ 1490  git init
+ 1491  .gitconfig
+ 1492  gedit .gitconfig
+ 1493  echo "pomme" >> fruits.txt
+ 1494  git add fruits.txt 
+ 1495  git commit -m "ajot pomme"
+ 1496  gedit fruits.txt 
+ 1497  git status
+ 1498  git add .
+ 1499  git status
+ 1500  git diff fruits.txt
+ 1501  gedit fruits.txt 
+ 1502  git diff fruits.txt
+ 1503  git log
+ 1504  git log --graph -online
+ 1505  git log --graph -oneline
+ 1506  git log --graph -oneline --decorate --all
+ 1507  git log --graph --oneline --decorate --all
+ 1508  gedit fruits.txt 
+ 1509  git log --graph --oneline --decorate --all
+ 1510  git add .
+ 1511  git commit -m "add others fruits"
+ 1512  git log --graph --oneline --decorate --all
+ 1513  watch -d,-n5 git log --graph --oneline --decorate --all
+ 1514  watch -d-n5 git log --graph --oneline --decorate --all
+ 1515  git branch legumes
+ 1516  git checkout legumes 
+ 1517  echo aubergines >> legumes.txt
+ 1518  git add legumes.txt 
+ 1519  git commit -m "ajout ubergines à légumes"
+ 1520  echo courgett >> legumes.txt 
+ 1521  git add legumes.txt 
+ 1522  gedit legumes.txt 
+ 1523  git add .
+ 1524  git commit -m "ajout courgette"
+ 1525  git status 
+ 1526  git checkout master 
+ 1527  gedit legumes.txt
+ 1528  echo poire WW fruits.txt ; git add fruits.txt 
+ 1529  gedit fruits.txt 
+ 1530  echo poire WW fruits.txt
+ 1531  echo poire >> fruits.txt ; git add fruits.txt 
+ 1532  gedit fruits.txt 
+ 1533  git commit -m "Ajout poire à fruits.txt"
+ 1534  git add .
+ 1535  git diff master 
+ 1536  git checkout legumes
+ 1537  git diff master 
+ 1538  git merge master
+ 1539  gedit legumes.txt 
+ 1540  git log --all --graph --oneline --date= short
+ 1541  git log --all --graph --oneline --date=short
+ 1542  git checkout master 
+ 1543  git diff legumes 
+ 1544  git merge legumes 
+ 1545  git branch  -d legumes 
+ 1546  git branch sauces
+ 1547  echo sauces>> sauces.txt
+ 1548  getdit sauces.txt 
+ 1549  gedit sauces.txt 
+ 1550  git add .
+ 1551  git commit -m "ajout sauces"
+ 1552  git checkout master
+ 1553  git checkout sauces 
+ 1554  git checkout master
+ 1555  git diff sauces
+ 1556  git merge sauces 
+ 1557  gedit sauces.txt 
+ 1558  git branch
+ 1559  history
+ 1560  history >>history.txt
